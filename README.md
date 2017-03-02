@@ -12,5 +12,5 @@ The intention of this repository is to act as a collection of important computer
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+---[linear_search](https://github.com/SebetheWombat/CompSciNotes/tree/master/algorithms/searching/linear_search)  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+---[sorting](https://github.com/SebetheWombat/CompSciNotes/tree/master/algorithms/sorting)  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+---[bubble_sort](https://github.com/SebetheWombat/CompSciNotes/tree/master/algorithms/sorting/bubble_sort)  
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+---[selection_sort](https://github.com/SebetheWombat/CompSciNotes/tree/master/algorithms/sorting/selection_sort)
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+---[selection_sort](https://github.com/SebetheWombat/CompSciNotes/tree/master/algorithms/sorting/selection_sort)  
 +---[data_structures](https://github.com/SebetheWombat/CompSciNotes/tree/master/data_structures)
