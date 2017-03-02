@@ -6,8 +6,8 @@ Linear search is a way to find a particular target value in an array or a list. 
 ###Pseudocode
 ```
 For each element in the array  
-IF the element equals the target number  
-RETURN the index at which it was found  
+    IF the element equals the target number  
+        RETURN the index at which it was found  
 Otherwise if we have reached the end of the array  
-RETURN -1 to indicate target was not found  
+    RETURN -1 to indicate target was not found  
 ``` 
